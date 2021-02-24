@@ -13,4 +13,4 @@ The specialization includes five courses:
 
 **4.** [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining?specialization=data-science-python) (_04_Applied_Text_Mining_)
 
-**5.** [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis) (_To be completed_)
+**5.** [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis) (_05_Applied_Social_Networks_Analysis_)
