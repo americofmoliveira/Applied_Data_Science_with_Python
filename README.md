@@ -1,4 +1,4 @@
-# Applied-Data-Science-with-Python
+# Applied Data Science with Python Specialization
 ![alt text](https://www.wemu.org/sites/wemu/files/202004/U-M-logo-preview.jpg "From University of Michigan")
 
 Code and materials from Coursera's [_Applied Data Science with Python_](https://www.coursera.org/specializations/data-science-python) Specialization.
